@@ -1,0 +1,5 @@
+devops-441313-cd593d914968.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
